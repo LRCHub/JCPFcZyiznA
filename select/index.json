@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "まっがーれ↓スペクタクル",
+  "base_artist": "古泉一樹 (CV.小野大輔)",
+  "createdAt": "2026-02-07T08:04:31.580885Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "まっがーれ↓スペクタクル",
+      "artist": "小野大輔",
+      "has_synced": true,
+      "path": "select/01_まっがーれ↓スペクタクル_小野大輔.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "まっがーれ↓スペクタクル",
+      "artist": "小泉一樹)小野大輔",
+      "has_synced": true,
+      "path": "select/02_まっがーれ↓スペクタクル_小泉一樹)小野大輔.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "まっがーれ↓スペクタクル",
+      "artist": "古泉一樹 (CV.小野大輔)",
+      "has_synced": true,
+      "path": "select/03_まっがーれ↓スペクタクル_古泉一樹_(CV.小野大輔).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "まっがーれ↓スペクタクル",
+      "artist": "古泉一樹(CV.小野大輔)",
+      "has_synced": false,
+      "path": "select/pl_01_まっがーれ↓スペクタクル_古泉一樹(CV.小野大輔).txt"
+    }
+  ]
+}
